@@ -35,14 +35,14 @@ From this project we can learn which things affect the house price more and in s
 
 ## Authors
 
-- [@subhaganesh]https://github.com/subhaganesh
+- [@sivadsm04]https://github.com/sivadsm04
 
 
 ## Feedback
 
-If you have any feedback, please reach out to @subhaganesh5@outlook.com
+If you have any feedback, please reach out to @sivarajdsm@gmail.com
 
 
 ## Support
 
-For support, email @subhaganesh5@outlook.com
+For support, email @sivarajdsm@gmail.com
